@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Complete-ReactJs/project-1-expense-manager/static/css/main.ebdb213a.chunk.css",
+    "main.js": "/Complete-ReactJs/project-1-expense-manager/static/js/main.cb9f680e.chunk.js",
+    "main.js.map": "/Complete-ReactJs/project-1-expense-manager/static/js/main.cb9f680e.chunk.js.map",
+    "runtime-main.js": "/Complete-ReactJs/project-1-expense-manager/static/js/runtime-main.4cd348f4.js",
+    "runtime-main.js.map": "/Complete-ReactJs/project-1-expense-manager/static/js/runtime-main.4cd348f4.js.map",
+    "static/js/2.40dc0390.chunk.js": "/Complete-ReactJs/project-1-expense-manager/static/js/2.40dc0390.chunk.js",
+    "static/js/2.40dc0390.chunk.js.map": "/Complete-ReactJs/project-1-expense-manager/static/js/2.40dc0390.chunk.js.map",
+    "index.html": "/Complete-ReactJs/project-1-expense-manager/index.html",
+    "static/css/main.ebdb213a.chunk.css.map": "/Complete-ReactJs/project-1-expense-manager/static/css/main.ebdb213a.chunk.css.map",
+    "static/js/2.40dc0390.chunk.js.LICENSE.txt": "/Complete-ReactJs/project-1-expense-manager/static/js/2.40dc0390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cd348f4.js",
+    "static/js/2.40dc0390.chunk.js",
+    "static/css/main.ebdb213a.chunk.css",
+    "static/js/main.cb9f680e.chunk.js"
+  ]
+}
